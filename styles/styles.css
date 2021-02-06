@@ -29,9 +29,11 @@ ul{
 
 ul li{
     display: inline-block;
+    font-size: 30px;
 }
 
 ul li a{
     text-decoration: none;
     padding: 10px 15px;
+    color: black;
 }
