@@ -1,4 +1,37 @@
-body {
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* body{
     background-image: url("imagens/video_call.png");
     background-size: cover;
+} */
+
+header{
+    display: flex;
+}
+
+h1{
+    margin: 50px 0 0 50px;
+    margin-right: auto;
+    font-size: 50px;
+    color: #D6000D;
+}
+
+nav{
+    margin: 50px 50px 0 0;
+}
+
+ul{
+    list-style: none;
+    
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    padding: 10px 15px;
 }
