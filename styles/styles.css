@@ -2,10 +2,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
-/* body{
-    background-image: url("imagens/video_call.png");
+body{
+    background-image: url("image/video_call.png");
     background-size: cover;
-} */
+}
 
 header{
     display: flex;
