@@ -3,7 +3,7 @@
 }
 
 body{
-    background-image: url("image/video_call.png");
+    background-image: url("/image/video_call.png");
     background-size: cover;
 }
 
